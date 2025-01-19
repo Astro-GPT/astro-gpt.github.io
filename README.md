@@ -1,1 +1,1 @@
-# Chat-Astro
+# AstroGPT
